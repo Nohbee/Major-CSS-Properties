@@ -1,0 +1,23 @@
+body {
+    margin: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 20px;
+}
+h1, h2{
+    font-size: 18px;
+}
+p {
+    font-size: 14px;
+    line-height: 30px;
+}
+#first-section {
+    color: green;
+}
+#second-section {
+    color: red;
+}
+#third-section {
+    color: blue;
+}
